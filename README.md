@@ -1,4 +1,4 @@
-# Command line tool for analyzing text with Lucene/Solr/Elasticsearch
+# CLI to analyze text with Lucene/Solr/Elasticsearch
 
 ## Usage
 ```
